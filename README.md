@@ -4,9 +4,9 @@
 💻 **Foco em:** desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript e Python.
 
 <div>
-  <a href="mailto:adrielsouza2023@outlook.com"><img src="https://img.shields.io/badge/-Email-%23222222?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adriel-souza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/adriel_souza3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:adrielsouza2023@outlook.com"><img src="https://img.shields.io/badge/Email-%234B4B4B?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adriel-souza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/adriel_souza3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
