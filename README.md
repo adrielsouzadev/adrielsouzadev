@@ -1,30 +1,64 @@
-# Olá, eu sou o Adriel Souza 👋
-> Estudante de Análise e Desenvolvimento de Sistemas
+<h1 align="center">Olá, eu sou o Adriel Souza 👋</h1>
 
-💻 **Foco em:** desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript e Python.
-
-<div>
-  <a href="mailto:adrielsouza2023@outlook.com"><img src="https://img.shields.io/badge/Email-%234B4B4B?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adriel-souza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/adriel_souza3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+<p align="center">
+  <b>Desenvolvedor Full Stack Júnior</b><br>
+  JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL<br>
+  📍 Trindade, Goiás, Brasil
+</p>
 
 ---
 
-## 🛠 Tecnologias & Skills
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-<br>
+## 👨‍💻 Sobre mim
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas (2026), com foco em desenvolvimento web full stack. Construo aplicações completas, do banco de dados à interface, com autenticação, validação de dados, testes automatizados e deploy em produção.
+
+Gosto de entender a arquitetura do que construo e de evoluir cada projeto com boas práticas, como commits padronizados e código organizado.
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=adrielsouzadev&show_icons=true&theme=tokyonight&locale=pt-BR)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielsouzadev&layout=compact&theme=tokyonight&locale=pt-BR)
+## 🚀 Projetos
+
+### 🗂️ [DevFlow](https://github.com/adrielsouzadev/devflow)
+Aplicação full stack para gerenciamento de projetos e tarefas, com cadastro e login, dados isolados por usuário, prioridades, status e filtro por status.
+- **Front-end:** Next.js, React, TypeScript, Tailwind
+- **Back-end:** Node.js, Express, TypeScript, JWT, Zod
+- **Banco:** PostgreSQL com Prisma
+- **Qualidade:** testes automatizados da API com Vitest e Supertest
+- 🔗 [Demo online](https://devflow-six-eta.vercel.app) · [Código](https://github.com/adrielsouzadev/devflow)
+
+### 💰 [FinanceControl](https://github.com/adrielsouzadev/financecontrol)
+Sistema de controle financeiro pessoal, com interface responsiva e publicado em produção.
+- **Stack:** Next.js, TypeScript, PostgreSQL (Neon)
+- 🔗 [Demo online](https://financecontrol-pink.vercel.app) · [Código](https://github.com/adrielsouzadev/financecontrol)
+
+### 🌤️ [WeatherApp](https://github.com/adrielsouzadev/weatherapp)
+Aplicação de previsão do tempo com pesquisa de cidade, condições atuais, umidade, vento, sensação térmica e previsão de 5 dias, consumindo uma API externa.
+- **Stack:** Vue 3, JavaScript, Vite, CSS, API Open-Meteo
+- 🔗 [Código](https://github.com/adrielsouzadev/weatherapp)
+
+---
+
+## 🛠 Tecnologias
+
+| Área | Tecnologias |
+|---|---|
+| **Linguagens** | JavaScript, TypeScript, Python, SQL |
+| **Front-end** | React, Next.js, Vue.js, HTML, CSS, Tailwind |
+| **Back-end** | Node.js, Express, APIs REST, JWT, Zod |
+| **Banco de dados** | PostgreSQL, MySQL, MongoDB, Prisma |
+| **Ferramentas** | Git, GitHub, Docker, Vitest, Vercel |
+
+---
+
+## 🎓 Formação e certificações
+
+- **Tecnologia em Análise e Desenvolvimento de Sistemas**, Anhanguera (2024–2026)
+- **Docker Essentials: A Developer Introduction**, IBM (2026)
+- **Curso Web Moderno Completo com JavaScript + Projetos**, Udemy (2026)
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adriel-souza-dev">LinkedIn</a> •
+  <a href="mailto:souzaadriel045@gmail.com">E-mail</a>
+</p>
