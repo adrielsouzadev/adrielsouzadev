@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Adriel Souza 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack Júnior</b><br>
+  <b>Desenvolvedor Full Stack</b><br>
   JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL<br>
   📍 Trindade, Goiás, Brasil
 </p>
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas (2026), com foco em desenvolvimento web full stack. Construo aplicações completas, do banco de dados à interface, com autenticação, validação de dados, testes automatizados e deploy em produção.
+Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web full stack. Construo aplicações completas, do banco de dados à interface, com autenticação, validação de dados, testes automatizados e deploy em produção.
 
-Gosto de entender a arquitetura do que construo e de evoluir cada projeto com boas práticas, como commits padronizados e código organizado.
+Estou sempre aprendendo novas tecnologias e evoluindo meus projetos com boas práticas.
 
 ---
 
