@@ -34,7 +34,7 @@ Sistema de controle financeiro pessoal, com interface responsiva e publicado em 
 ### 🌤️ [WeatherApp](https://github.com/adrielsouzadev/weatherapp)
 Aplicação de previsão do tempo com pesquisa de cidade, condições atuais, umidade, vento, sensação térmica e previsão de 5 dias, consumindo uma API externa.
 - **Stack:** Vue 3, JavaScript, Vite, CSS, API Open-Meteo
-- 🔗 [Código](https://github.com/adrielsouzadev/weatherapp)
+- 🔗 [Demo online](https://weatherapp-five-ruddy.vercel.app/) · [Código](https://github.com/adrielsouzadev/weatherapp)
 
 ---
 
